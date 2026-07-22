@@ -1,12 +1,25 @@
-# Manajemen Pembangunan - Laporan Audit Sinkronisasi Dokumen Daerah
+# UAS Manajemen Pembangunan - Studi Kasus Kota Probolinggo
 
-Repository ini memuat hasil pengerjaan Ujian Akhir Semester (UAS) mata kuliah Manajemen Pembangunan.
+Repositori ini memuat *Laporan Audit Sinkronisasi Dokumen Daerah* untuk **Kota Probolinggo**, disusun sebagai pemenuhan Ujian Akhir Semester (UAS) Genap 2026 mata kuliah Manajemen Pembangunan.
 
-## Daftar Dokumen
-- [Laporan Audit Sinkronisasi Kota Probolinggo (Markdown)](laporan_uas_probolinggo.md)
+## Dokumen Laporan
 
-Laporan ini menganalisis dokumen perencanaan (RPJMD, RTRW, RDTR) Kota Probolinggo, mengevaluasi gap dan status pengesahan RDTR, serta memberikan rekomendasi solutif dari perspektif Perencana Wilayah dan Kota. Anda dapat mengunduh atau menyalin isi file `laporan_uas_probolinggo.md` dan menyimpannya ke dalam format PDF untuk dikumpulkan ke Google Classroom.
+Laporan utama dapat ditemukan pada file:
+👉 **[`laporan_uas_probolinggo.md`](./laporan_uas_probolinggo.md)**
+
+Laporan ini disusun dengan format audit profesional **Perencana Wilayah dan Kota (PWK)** yang mencakup:
+*   Identifikasi komprehensif dokumen RPJMD, RTRW, dan RDTR Kota Probolinggo.
+*   Audit kritis antara visi daerah dan ketersediaan alokasi ruang.
+*   **Matriks Sinkronisasi RPJMD–RTRW–RDTR** dan **Matriks Gap Analysis**.
+*   Rekomendasi taktis dan strategis beserta Roadmap penyelesaian.
+
+## Instruksi Pengumpulan
+1. Ekspor file `laporan_uas_probolinggo.md` menjadi dokumen PDF (dapat menggunakan ekstensi Markdown to PDF).
+2. Kumpulkan hasil PDF ke Google Classroom MK Manajemen Pembangunan (Kode kelas: 42idnpdv) sebelum batas waktu **Kamis, 23 Juli 2026 pukul 11.59 WIB**.
+3. Pastikan format penamaan file sesuai dengan instruksi dosen pengampu.
 
 ---
+
 ## Tentang CouldAI
-Proyek ini dihasilkan menggunakan [CouldAI](https://could.ai), AI app builder lintas platform yang mampu merancang, membangun, dan menyusun solusi teknis secara otonom.
+
+Aplikasi atau repositori ini dibangun dan dioptimalkan menggunakan [CouldAI](https://could.ai), asisten pengembangan aplikasi lintas platform yang menggunakan AI agen otonom untuk merancang, membangun, menguji, dan merilis aplikasi production-ready untuk iOS, Android, Web, dan Desktop.
